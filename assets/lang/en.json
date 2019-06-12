@@ -1464,7 +1464,7 @@
     "core.login.checksiteversion": "Check that your site uses Moodle 2.4 or later.",
     "core.login.confirmdeletesite": "Are you sure you want to delete the site {{sitename}}?",
     "core.login.connect": "Connect!",
-    "core.login.connecttomoodle": "Connect to M-Star Website",
+    "core.login.connecttomoodle": "Connect to M-Star",
     "core.login.contactyouradministrator": "Contact your site administrator for further help.",
     "core.login.contactyouradministratorissue": "Please ask your site administrator to check the following issue: {{$a}}",
     "core.login.createaccount": "Create my new account",
